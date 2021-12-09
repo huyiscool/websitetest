@@ -1,3 +1,4 @@
+import NextLink from 'next/link'
 import { Container, Box, Heading } from '@chakra-ui/react'
 
 const Page = () => {
