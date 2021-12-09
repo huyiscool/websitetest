@@ -80,8 +80,8 @@ const Navbar = props => {
 	 <LinkItem href="/howto" path={path}>
             How-to
           </LinkItem>
-	 <LinkItem href="/" path={path}>
-            Filler(remember to add smt)
+	 <LinkItem href="/history" path={path}>
+            History Of Coding
           </LinkItem>
 	<LinkItem
             _target="_blank"
