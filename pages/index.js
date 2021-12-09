@@ -6,6 +6,7 @@ import { Container,
 	 Divider,
 	 useColorModeValue	
 } from '@chakra-ui/react'
+import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
 
@@ -64,7 +65,8 @@ const Page = () => {
           Why Code a Website?
          </Heading>
          <Paragraph>
-          Paragraph
+          There could be many reasons why you would want to create a website. One cause of making a website using a third party company is that they have the control to do whatever they want on your website, such as show ads to viewers, or modify things within the website, since it is technically owned by them. Whether it is to help gain knowledge on front-end programming, or wanting a higher level of customizations with all the little details of your website, it is easy to find pros of building a website yourself over using a pre-made cookie cutter website creator online.
+
         </Paragraph>		
 	</Section>
 	<Section delay={0.4}>
@@ -76,7 +78,8 @@ const Page = () => {
         </Paragraph>		
 	</Section>
 	</Container>
-	)
+
+)
 }
 
 export default Page
