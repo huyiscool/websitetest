@@ -45,7 +45,7 @@ const Page = () => {
 			</Box>
 	<Section delay={0.1}>
          <Heading as="h3" variant="section-title">
-          About me
+          About Me
          </Heading>
          <Paragraph>
           Hi! My name is Huy Truong, currently a junior at UCSD, and working towards a Computer Science degree! My hobbies include playing games and taking long walks on the beach. The reason I chose to make this site was to build my own knowledge of front-end programming and hopefully provide some useful resources for others to start too!
@@ -54,7 +54,7 @@ const Page = () => {
 	</Section>
 	<Section delay={0.2}>
         <Heading as="h3" variant="section-title">
-          About the site
+          About the Site
         </Heading>
         <Paragraph>
 	 This website’s purpose is to help inform people on how and why you would create a website.
@@ -65,13 +65,13 @@ const Page = () => {
           Why Code a Website?
          </Heading>
          <Paragraph>
-          There could be many reasons why you would want to create a website. One cause of making a website using a third party company is that they have the control to do whatever they want on your website, such as show ads to viewers, or modify things within the website, since it is technically owned by them. Whether it is to help gain knowledge on front-end programming, or wanting a higher level of customizations with all the little details of your website, it is easy to find pros of building a website yourself over using a pre-made cookie cutter website creator online.
+          There could be many reasons why you would want to create a website. One cause of making a website using a third party company is that they have the control to do whatever they want on your website, such as show ads to viewers, or modify things within the website, since it is technically owned by them. Whether it is to help gain knowledge on front-end programming, or wanting a higher level of customizations with all the little details of your website, it is easy to find pros of building a website yourself over using a pre-made cookie cutter website creator online. However, regardless of whether you choose to code a website or not, having a website allows you to reach a wide audience and supply them with an ample amount of knowledge on a subject you are passionate about, or advertise your skills and prior projects in the form of a portfolio website. Having a website allows you to show off to the world and express yourself in a wide array of ways!
 
         </Paragraph>		
 	</Section>
 	<Section delay={0.4}>
          <Heading as="h3" variant="section-title">
-          How do you get started?
+          How do You Get Started?
          </Heading>
          <Paragraph>
           There are many different ways to create a website, including different languages and developer tools. In order to start, prior knowledge of coding would help immensely, but is not required. Specifically, knowledge of JavaScript or general Linux knowledge makes it very easy to understand all the components of website building. You can look in the How-to for my own take on how to start!
