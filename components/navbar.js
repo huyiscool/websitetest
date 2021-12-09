@@ -76,6 +76,12 @@ const Navbar = props => {
 	<LinkItem href="/critique" path={path}>
             Critique
           </LinkItem>
+	 <LinkItem href="/howto" path={path}>
+            How-to
+          </LinkItem>
+	 <LinkItem href="/" path={path}>
+            Filler(remember to add smt)
+          </LinkItem>
 	<LinkItem
             _target="_blank"
             href="https://github.com/huyiscool/websitetest"
