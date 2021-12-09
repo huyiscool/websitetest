@@ -25,15 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/critique": [
+    "/howto": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/critique.js"
-    ],
-    "/history": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/history.js"
+      "static/chunks/pages/howto.js"
     ]
   },
   "ampFirstPages": []

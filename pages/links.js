@@ -8,7 +8,7 @@ import actualreact from '../public/images/actualreact.png'
 import pluralsight from '../public/images/pluralsight.png'
 import websitebuilder from '../public/images/websitebuilder.png'
 import chakra from '../public/images/chakra.png'
-
+import maker from '../public/images/maker.png'
 const Links = () => (
 	<Container>
 		<Heading>
@@ -39,6 +39,8 @@ const Links = () => (
 	 <GridItem title="Plural Sight" thumbnail={pluralsight} href="https://www.pluralsight.com/courses/quick-start-javascript-1-1870?aid=7010a000002BZNLAA4
 "/>
 	Plural Sight is a website dedicated to tutorials involving the language Javascript. This is a great way to start learning the language if you do not have much prior experience coding in the language or coding in general.
+	<GridItem title="Maker Pro" thumbnail={maker} href="https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners"/>
+	This website lists basic linux commands for performing basic actions in your terminal. This will be useful if you wish to code your website inside the base terminal.
 	</SimpleGrid>
 	</Section>
 	</Container>

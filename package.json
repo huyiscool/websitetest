@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Huy Truong",
+  "author": "Huy Truong<htruong@ucsd.edu>",
   "license": "MIT",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.1",
