@@ -1,5 +1,6 @@
 import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
 import Section from '../components/section'
+import Paragraph from '../components/paragraph'
 import Layout from '../components/layouts/article'
 import { WorkGridItem } from '../components/grid-item'
 import { BioSection, BioYear } from '../components/bio'
@@ -58,7 +59,13 @@ const History = () => (
                 </Section>
 
 
-
+	<Heading as="h3" version="section-title">
+	How it&apos;s Going
+	</Heading>
+	
+	<Paragraph>
+	 Going from being only able to display text, to now having libraries dedicated just to emoticons. We are able to see a rapidly growing availability of resources to developers and hobbiests alike to create specialized websites. As more things become available to the general public, everyone will be able to create websites specifically tailored to their tastes!
+	</Paragraph>
 	</Container>
 
 )

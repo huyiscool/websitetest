@@ -38,7 +38,8 @@ const howTo = () => (
         </Paragraph>
 
 	<SimpleGrid columns={[1, 1, 2]} gap={6}>
-	 <GridItem title="Example Configuration" thumbnail={example} href="/howto"/>
+	 <GridItem title="Example Configuration" thumbnail={example} href="https://docs.npmjs.com/cli/v8/configuring-npm/package-json
+"/>
 	</SimpleGrid>
         </Section>
 

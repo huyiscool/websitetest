@@ -48,7 +48,7 @@ const Page = () => {
           About me
          </Heading>
          <Paragraph>
-          Hi! My name is Huy Truong, currently a junior at UCSD, and working towards a Computer Science degree! The reason I chose to make this site was to build my own knowledge of front-end programming and hopefully provide some useful resources for others to start too!
+          Hi! My name is Huy Truong, currently a junior at UCSD, and working towards a Computer Science degree! My hobbies include playing games and taking long walks on the beach. The reason I chose to make this site was to build my own knowledge of front-end programming and hopefully provide some useful resources for others to start too!
 
         </Paragraph>		
 	</Section>
@@ -74,7 +74,7 @@ const Page = () => {
           How do you get started?
          </Heading>
          <Paragraph>
-          There are many different ways to create a website, including different languages and developer tools. In order to start, prior knowledge of coding would help immensely, but is not required. You can look in the How-to for my own take on how to start!
+          There are many different ways to create a website, including different languages and developer tools. In order to start, prior knowledge of coding would help immensely, but is not required. Specifically, knowledge of JavaScript or general Linux knowledge makes it very easy to understand all the components of website building. You can look in the How-to for my own take on how to start!
 
         </Paragraph>		
 	</Section>
