@@ -74,7 +74,8 @@ const Page = () => {
           How do you get started?
          </Heading>
          <Paragraph>
-          Paragraph
+          There are many different ways to create a website, including different languages and developer tools. In order to start, prior knowledge of coding would help immensely, but is not required. You can look in the How-to for my own take on how to start!
+
         </Paragraph>		
 	</Section>
 	</Container>
