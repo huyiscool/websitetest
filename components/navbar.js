@@ -60,6 +60,22 @@ const Navbar = props => {
             		<Logo />
          	 </Heading>
        		 </Flex>
+	
+	 <Stack
+          direction={{ base: 'column', md: 'row' }}
+          display={{ base: 'none', md: 'flex' }}
+          width={{ base: 'full', md: 'auto' }}
+          alignItems="center"
+          flexGrow={1}
+          mt={{ base: 4, md: 0 }}
+        >
+	<LinkItem href="/links" path={path}>
+	Links
+	</LinkItem>
+	<LinkItem href="/critique" path={path}>
+            Critique
+          </LinkItem>	
+	</Stack>
 	 </Container>
 	</Box>
 )
