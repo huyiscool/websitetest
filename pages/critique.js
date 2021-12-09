@@ -10,6 +10,7 @@ const Critique = () => (
                 <Heading>
                  Critique
                 </Heading>
+	<Section delay ={0.1}>
 	<SimpleGrid columns={[1, 1, 2]} gap={6}>
 	 <GridItem title="www.webdesignerdepot.com" thumbnail={critique} href="https://www.webdesignerdepot.com/2016/05/9-reasons-hand-coding-always-beats-site-builders/
 "/>
@@ -32,6 +33,7 @@ Overall, I feel that Emma makes very compelling points in why coding a website i
 Non-written element - code
 
 	</Paragraph>	
+	</Section>
         </Container>
 
 )

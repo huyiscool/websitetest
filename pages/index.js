@@ -48,7 +48,7 @@ const Page = () => {
           About me
          </Heading>
          <Paragraph>
-          Hi! My name is Huy Truong, currently a junior at , and working towards a Computer Science degree! The reason I chose to make this site was to build my own knowledge of front-end programming and hopefully provide some useful resources for others to start too!
+          Hi! My name is Huy Truong, currently a junior at UCSD, and working towards a Computer Science degree! The reason I chose to make this site was to build my own knowledge of front-end programming and hopefully provide some useful resources for others to start too!
 
         </Paragraph>		
 	</Section>
