@@ -20,7 +20,7 @@ const Critique = () => (
 	</Heading>
 
 	<Paragraph>
-	This article by Emma Grant goes over 9 different reasons why hand-coding a site is always better than a site builder. In this article, she goes on to support her claim with 9 compelling arguments that essentially boil down to “Retaining Control of Your Work”, “Not Getting Screwed Over By Site-Building Companies”, “Learning a Valuable Skill”, “Making a Better Product”. 
+This article was created by Emma Grant, where she goes on to give support to hand coding websites over using a conventional site-builder such as Wordpress or Squarespace. In the article, she goes on to support her claim with 9 compelling arguments to support her initial claim of the benefits of hand-coding, all of them essentially boiling down to four main points: “Retaining Control of Your Work”, “Not Getting Screwed Over By Site-Building Companies”, “Learning a Valuable Skill”, “Making a Better Product”. 
 
 	</Paragraph>
 	<Paragraph>

@@ -64,7 +64,7 @@ const History = () => (
 	</Heading>
 	
 	<Paragraph>
-	 Going from being only able to display text, to now having libraries dedicated just to emoticons. We are able to see a rapidly growing availability of resources to developers and hobbiests alike to create specialized websites. As more things become available to the general public, everyone will be able to create websites specifically tailored to their tastes!
+	 Going from being only able to display text, to now having libraries dedicated just to emoticons. We are able to see a rapidly growing availability of resources to developers and hobbiests alike to create specialized websites. The current version of HTML, CSS and Javascript are far more advanced than what it was a decade ago. Most browsers are now competing to meet compliance, hence the latest specifications get rolled out faster. It’s highly likely that most of the heavy lifting tasks provided by modern libraries will soon be implemented natively in the future. There is even an uprise in popularity of drag and drop builders that help users visualize changes better. As more things become available to the general public, everyone will be able to create websites specifically tailored to their tastes!
 	</Paragraph>
 	</Container>
 

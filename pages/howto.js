@@ -16,7 +16,7 @@ const howTo = () => (
                 Make the directories
          </Heading>
          <Paragraph>
-		Every project starts by making the directory, so in terminal, type (mkdir yourProjectName) in order to create the location of your project.
+		Every project starts by making the directory, so in terminal, type (mkdir yourProjectName) in order to create the location of your project. (If you are on Mac or Linux, you can just access the terminal located on your computer, otherwise if you are on Windows, you will need to search up how to install a Unix terminal.)
 	</Paragraph>
 	</Section>
 	<Section delay={0.2}>
@@ -34,7 +34,7 @@ const howTo = () => (
                 Configure the Project
          </Heading>
          <Paragraph>
-		Now, after installing all your packages, it is time to configure the project. By using npm, the configurations will be found in package.json. You can now double check the packages you installed as well as their versions. For each package, you may have to configure an option specifically, so make sure to check the documention on the packages&apos; website. 
+		Now, after installing all your packages, it is time to configure the project. By using npm, the configurations will be found in package.json. You can now double check the packages you installed as well as their versions. For each package, you may have to configure an option specifically, so make sure to check the documention on the packages&apos; website. Below you can see a little example I took from this very website, and if you click on it, I have linked the documentation on React&apos;s website! 
         </Paragraph>
 
 	<SimpleGrid columns={[1, 1, 2]} gap={6}>
@@ -49,10 +49,10 @@ const howTo = () => (
                 Start Coding!
          </Heading>
          <Paragraph>
-        	Now that you have configured everything, all thats left is to start coding! This process cannot be explained in a paragraph or two, so I suggest watching videos and searching Google for any problems or questions you might have. Good luck!
+        	Now that you have configured everything, all thats left is to start coding! This process cannot be explained in a paragraph or two, so I put a video linking to a crash course on react to watch! However, I suggest watching additional videos and searching Google for any problems or questions you might have. Good luck!
 	 </Paragraph>
 	 <SimpleGrid columns={[1, 1, 2]} gap={6}>
-         <GridItem title="Video to Get You Started" thumbnail={youtube} href="https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=1012"/>
+         <GridItem title="Video to Get You Started" thumbnail={youtube} href="https://www.youtube.com/watch?v=w7ejDZ8SW"/>
         </SimpleGrid>
         </Section>
 
