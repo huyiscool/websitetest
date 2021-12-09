@@ -12,7 +12,7 @@ import Paragraph from '../components/paragraph'
 const Page = () => {
 	return (
 		<Container>
-			<Box borderRadius="lg" bg="beige" p={3} mb={6}  align="center">
+			<Box borderRadius="lg" bg={useColorModeValue('beige','brown')} p={3} mb={6}  align="center">
 			Welcome to how to build a website! 
 			</Box>
 			
