@@ -20,7 +20,7 @@ const LogoBox = styled.span`
 `
 
 const Logo = () => {
-  const footPrintImg = `/images/cat.png`
+  const footPrintImg = `/images/hanhcat.png`
 
   return (
     <Link href="/">
